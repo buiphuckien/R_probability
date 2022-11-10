@@ -1,2 +1,2 @@
 # R_probability
-This is 
+This repository concludes things that I do probability with R programming language.
